@@ -1,0 +1,61 @@
+destination_id,destination_name,country,continent,avg_cost_per_day_usd,season,climate,activities,travel_style,avg_rating,num_reviews,beach,mountains,culture,adventure,relaxation,family_friendly,budget_friendly,luxury,urban,rural,safety_rating,tourist_density
+1,Bali,Indonesia,Asia,75,Year-round,Tropical,"Beach,Temple,Surfing,Yoga","Relaxation,Adventure",4.7,5420,1,0,1,1,1,1,1,0,0,1,4.3,High
+2,Paris,France,Europe,200,Spring/Fall,Temperate,"Museums,Shopping,Dining,Sightseeing","Culture,Luxury",4.8,12500,0,0,1,0,0,1,0,1,1,0,4.5,Very High
+3,Tokyo,Japan,Asia,150,Spring/Fall,Temperate,"Technology,Dining,Shopping,Culture","Culture,Urban",4.9,9800,0,0,1,0,0,1,0,1,1,0,4.8,Very High
+4,Maldives,Maldives,Asia,350,Winter,Tropical,"Diving,Snorkeling,Beach,Spa","Relaxation,Luxury",4.9,3200,1,0,0,0,1,0,0,1,0,1,4.7,Medium
+5,New York,USA,North America,250,Spring/Fall,Continental,"Museums,Shopping,Theater,Dining","Urban,Culture",4.6,15000,0,0,1,0,0,1,0,1,1,0,4.2,Very High
+6,Iceland,Iceland,Europe,180,Summer,Cold,"Northern Lights,Hiking,Hot Springs","Adventure,Nature",4.8,4500,0,1,0,1,0,1,0,0,0,1,4.9,Medium
+7,Dubai,UAE,Asia,220,Winter,Desert,"Shopping,Luxury,Beach,Architecture","Luxury,Urban",4.7,8900,1,0,0,0,1,1,0,1,1,0,4.6,Very High
+8,Rome,Italy,Europe,120,Spring/Fall,Mediterranean,"History,Dining,Museums,Architecture","Culture,Food",4.7,11200,0,0,1,0,0,1,0,0,1,0,4.4,Very High
+9,Costa Rica,Costa Rica,Central America,90,Year-round,Tropical,"Hiking,Wildlife,Zip-lining,Beach","Adventure,Nature",4.6,6700,1,1,0,1,0,1,1,0,0,1,4.5,Medium
+10,Santorini,Greece,Europe,160,Summer,Mediterranean,"Beach,Photography,Dining,Sunset","Relaxation,Romantic",4.8,7300,1,0,1,0,1,0,0,1,0,1,4.6,High
+11,Bangkok,Thailand,Asia,60,Winter,Tropical,"Temples,Markets,Dining,Shopping","Budget,Culture",4.5,10500,0,0,1,0,0,1,1,0,1,0,4.1,Very High
+12,Swiss Alps,Switzerland,Europe,280,Winter/Summer,Alpine,"Skiing,Hiking,Photography,Chocolate","Adventure,Luxury",4.8,5100,0,1,0,1,1,1,0,1,0,1,4.9,Medium
+13,Machu Picchu,Peru,South America,110,Spring/Fall,Mountain,"Hiking,History,Photography,Culture","Adventure,Culture",4.9,8200,0,1,1,1,0,1,1,0,0,1,4.3,High
+14,Sydney,Australia,Oceania,180,Spring/Fall,Temperate,"Beach,Opera,Wildlife,Harbor","Urban,Beach",4.7,9100,1,0,1,0,0,1,0,0,1,0,4.7,High
+15,Morocco,Morocco,Africa,80,Spring/Fall,Desert,"Markets,Desert,Culture,Food","Culture,Adventure",4.5,6400,0,1,1,1,0,1,1,0,0,1,4.0,High
+16,New Zealand,New Zealand,Oceania,140,Summer,Temperate,"Hiking,Adventure Sports,Wildlife","Adventure,Nature",4.9,7800,1,1,0,1,0,1,0,0,0,1,4.8,Low
+17,Barcelona,Spain,Europe,140,Spring/Summer,Mediterranean,"Beach,Architecture,Dining,Art","Culture,Beach",4.7,10800,1,0,1,0,0,1,0,0,1,0,4.5,Very High
+18,London,UK,Europe,220,Summer,Temperate,"Museums,Theater,Shopping,History","Culture,Urban",4.6,13500,0,0,1,0,0,1,0,1,1,0,4.4,Very High
+19,Caribbean Islands,Multiple,Caribbean,180,Winter,Tropical,"Beach,Snorkeling,Relaxation,Sailing","Relaxation,Beach",4.6,8900,1,0,0,0,1,1,0,0,0,1,4.4,High
+20,Vietnam,Vietnam,Asia,50,Winter,Tropical,"Culture,Food,History,Beach","Budget,Culture",4.6,7100,1,0,1,0,0,1,1,0,0,1,4.2,High
+21,Norway,Norway,Europe,210,Summer,Cold,"Fjords,Northern Lights,Hiking,Wildlife","Nature,Adventure",4.8,4900,0,1,0,1,0,1,0,0,0,1,4.9,Low
+22,Egypt,Egypt,Africa,70,Winter,Desert,"Pyramids,History,Nile,Museums","Culture,History",4.4,8700,1,1,1,0,0,1,1,0,0,1,3.9,Very High
+23,Portugal,Portugal,Europe,100,Spring/Fall,Mediterranean,"Beach,History,Surfing,Wine","Culture,Relaxation",4.7,6800,1,0,1,0,1,1,1,0,0,1,4.6,High
+24,Singapore,Singapore,Asia,180,Year-round,Tropical,"Shopping,Food,Gardens,Culture","Urban,Family",4.7,8300,0,0,1,0,0,1,0,1,1,0,4.9,Very High
+25,Nepal,Nepal,Asia,40,Spring/Fall,Mountain,"Trekking,Temples,Culture,Mountains","Adventure,Budget",4.7,5900,0,1,1,1,0,0,1,0,0,1,4.0,Medium
+26,Croatia,Croatia,Europe,110,Summer,Mediterranean,"Beach,History,Islands,Sailing","Culture,Beach",4.6,5600,1,0,1,0,1,1,0,0,0,1,4.5,High
+27,Canada,Canada,North America,150,Summer/Winter,Continental,"Nature,Skiing,Cities,Wildlife","Nature,Adventure",4.7,7400,0,1,0,1,0,1,0,0,0,1,4.8,Low
+28,India,India,Asia,45,Winter,Varied,"Temples,Culture,Food,History","Budget,Culture",4.5,9500,1,1,1,1,0,1,1,0,1,1,3.8,Very High
+29,South Africa,South Africa,Africa,95,Spring/Fall,Varied,"Safari,Wine,Beach,Adventure","Adventure,Nature",4.6,6200,1,1,0,1,0,1,0,0,0,1,4.1,Medium
+30,Argentina,Argentina,South America,85,Spring/Fall,Varied,"Wine,Tango,Nature,Food","Culture,Adventure",4.6,5800,1,1,1,1,0,1,1,0,1,1,4.3,Medium
+31,Turkey,Turkey,Europe/Asia,75,Spring/Fall,Mediterranean,"History,Food,Beach,Markets","Culture,Budget",4.6,8100,1,0,1,0,0,1,1,0,1,0,4.2,High
+32,Scotland,Scotland,Europe,140,Summer,Temperate,"Castles,Whisky,Hiking,History","Culture,Nature",4.6,5300,0,1,1,0,0,1,0,0,0,1,4.7,Medium
+33,Jordan,Jordan,Middle East,90,Spring/Fall,Desert,"Petra,History,Desert,Culture","Culture,Adventure",4.7,4800,1,1,1,1,0,1,0,0,0,1,4.3,Medium
+34,Mexico,Mexico,North America,70,Year-round,Varied,"Beach,Ruins,Food,Culture","Culture,Beach",4.6,9700,1,1,1,0,1,1,1,0,0,1,3.9,Very High
+35,Austria,Austria,Europe,160,Winter/Summer,Alpine,"Music,Palaces,Skiing,Culture","Culture,Luxury",4.7,5700,0,1,1,0,0,1,0,1,1,0,4.8,Medium
+36,Ireland,Ireland,Europe,130,Summer,Temperate,"Pubs,Nature,Castles,Culture","Culture,Relaxation",4.6,5400,0,1,1,0,1,1,0,0,0,1,4.8,Medium
+37,Chile,Chile,South America,95,Spring/Fall,Varied,"Wine,Atacama,Patagonia,Beach","Adventure,Nature",4.7,4700,1,1,0,1,0,1,0,0,0,1,4.4,Low
+38,Poland,Poland,Europe,70,Spring/Summer,Continental,"History,Food,Cities,Culture","Culture,Budget",4.5,4900,0,0,1,0,0,1,1,0,1,0,4.6,High
+39,UAE - Abu Dhabi,UAE,Asia,200,Winter,Desert,"Mosque,Culture,Beach,Luxury","Luxury,Culture",4.7,4600,1,0,1,0,1,1,0,1,1,0,4.7,High
+40,Hawaii,USA,Oceania,240,Year-round,Tropical,"Beach,Volcanoes,Surfing,Hiking","Relaxation,Adventure",4.8,11200,1,1,0,1,1,1,0,1,0,1,4.6,Very High
+41,Amsterdam,Netherlands,Europe,180,Spring/Summer,Temperate,"Museums,Canals,Biking,Culture","Culture,Urban",4.7,8600,0,0,1,0,0,1,0,0,1,0,4.6,Very High
+42,Bhutan,Bhutan,Asia,250,Spring/Fall,Mountain,"Temples,Trekking,Culture,Nature","Culture,Adventure",4.8,2100,0,1,1,1,0,0,0,1,0,1,4.9,Low
+43,Madagascar,Madagascar,Africa,80,Spring/Fall,Tropical,"Wildlife,Beach,Nature,Adventure","Adventure,Nature",4.5,2800,1,0,0,1,0,1,1,0,0,1,3.8,Low
+44,Cuba,Cuba,Caribbean,60,Winter,Tropical,"Beach,Music,History,Culture","Culture,Budget",4.4,5500,1,0,1,0,1,1,1,0,1,0,3.7,High
+45,Finland,Finland,Europe,170,Winter/Summer,Cold,"Northern Lights,Sauna,Nature,Santa","Nature,Family",4.7,3900,0,0,0,0,1,1,0,0,0,1,4.9,Low
+46,Sri Lanka,Sri Lanka,Asia,55,Winter,Tropical,"Beach,Temples,Tea,Wildlife","Budget,Culture",4.6,5200,1,1,1,1,0,1,1,0,0,1,4.1,Medium
+47,Malta,Malta,Europe,110,Spring/Fall,Mediterranean,"Beach,History,Diving,Culture","Culture,Beach",4.6,4300,1,0,1,0,1,1,0,0,0,1,4.7,High
+48,Uruguay,Uruguay,South America,90,Summer,Temperate,"Beach,Wine,Relaxation,Culture","Relaxation,Culture",4.5,3400,1,0,1,0,1,1,0,0,0,1,4.5,Low
+49,Denmark,Denmark,Europe,190,Summer,Temperate,"Design,Food,Biking,Culture","Culture,Urban",4.7,4800,0,0,1,0,0,1,0,0,1,0,4.8,Medium
+50,Georgia,Georgia,Asia/Europe,60,Spring/Fall,Varied,"Wine,Mountains,History,Food","Culture,Adventure",4.7,3700,0,1,1,1,0,1,1,0,0,1,4.4,Low
+51,Philippines,Philippines,Asia,55,Winter,Tropical,"Beach,Islands,Diving,Adventure","Adventure,Beach",4.6,6300,1,1,0,1,0,1,1,0,0,1,4.0,High
+52,Colombia,Colombia,South America,65,Year-round,Varied,"Coffee,Beach,Cities,Culture","Culture,Adventure",4.5,5100,1,1,1,1,0,1,1,0,1,1,3.9,Medium
+53,Seychelles,Seychelles,Africa,320,Year-round,Tropical,"Beach,Luxury,Diving,Nature","Relaxation,Luxury",4.8,2600,1,0,0,0,1,0,0,1,0,1,4.8,Low
+54,Belgium,Belgium,Europe,150,Spring/Fall,Temperate,"Chocolate,Beer,History,Cities","Culture,Food",4.6,5900,0,0,1,0,0,1,0,0,1,0,4.6,High
+55,Montenegro,Montenegro,Europe,85,Summer,Mediterranean,"Beach,Mountains,History,Nature","Adventure,Budget",4.6,3200,1,1,1,0,1,1,1,0,0,1,4.4,Medium
+56,Cambodia,Cambodia,Asia,45,Winter,Tropical,"Temples,History,Food,Culture","Budget,Culture",4.6,5700,0,0,1,0,0,1,1,0,0,1,4.1,High
+57,Ecuador,Ecuador,South America,75,Year-round,Varied,"Galapagos,Hiking,Culture,Wildlife","Adventure,Nature",4.7,4100,1,1,1,1,0,1,0,0,0,1,4.2,Low
+58,Tanzania,Tanzania,Africa,110,Summer,Tropical,"Safari,Kilimanjaro,Beach,Wildlife","Adventure,Nature",4.7,4500,1,1,0,1,0,1,0,0,0,1,4.2,Medium
+59,Tunisia,Tunisia,Africa,60,Spring/Fall,Mediterranean,"Beach,History,Desert,Culture","Culture,Budget",4.3,3800,1,1,1,0,0,1,1,0,0,1,3.9,Medium
+60,Estonia,Estonia,Europe,95,Summer,Temperate,"Medieval,Digital,Nature,Culture","Culture,Urban",4.6,2900,0,0,1,0,0,1,1,0,1,0,4.7,Low
