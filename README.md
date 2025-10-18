@@ -49,8 +49,6 @@ TravelAdvisor/
 ---
 
 ## Phase 1: Problem Understanding and Data Exploration
-**Status:** In Progress  
-**Deadline:** October 16, 2025
 
 ### Objectives
 1. Define the travel recommendation problem
@@ -80,14 +78,6 @@ jupyter notebook Phase1_Data_Exploration.ipynb
 - **Type:** Travel destination reviews, ratings, and characteristics
 - **Size:** Multiple hundred rows with various features
 - **Features:** May include destination name, country, cost, travel style, ratings, activities, season, etc.
-
----
-
-## Future Phases
-- **Phase 2:** Supervised Learning - Classification and regression models for destination recommendation
-- **Phase 3:** Unsupervised Learning - Clustering destinations and dimensionality reduction
-- **Phase 4:** Generative AI Integration - Personalized itinerary generation
-- **Phase 5:** Final System Integration and Presentation
 
 ---
 
