@@ -28,6 +28,3 @@ Some suggested travel-related datasets:
 - [ ] Dataset downloaded
 - [ ] Dataset documented in Phase1_Data_Exploration.ipynb
 
----
-
-**Note:** Ensure the dataset has at least several hundred rows and contains relevant features for travel recommendation (e.g., destination names, ratings, costs, activities, travel style, etc.)
