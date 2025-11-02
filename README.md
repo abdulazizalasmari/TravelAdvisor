@@ -79,6 +79,4 @@ jupyter notebook Phase1_Data_Exploration.ipynb
 - **Size:** Multiple hundred rows with various features
 - **Features:** May include destination name, country, cost, travel style, ratings, activities, season, etc.
 
----
 
-**Last Updated:** October 18, 2025
