@@ -1,0 +1,53 @@
+{
+  "experiment_date": "2025-12-19 04:31:02",
+  "templates_tested": 3,
+  "destinations_tested": 3,
+  "selected_template": "Template 2: Conversational Context Prompt",
+  "average_scores": {
+    "Template 1\n(Structured)": 3.6666666666666665,
+    "Template 2\n(Conversational)": 4.5,
+    "Template 3\n(Expert Role)": 4.333333333333333
+  },
+  "comparison_metrics": {
+    "word_count": {
+      "Template 1: Structured": 8,
+      "Template 2: Conversational": 8,
+      "Template 3: Expert Role": 8
+    },
+    "character_count": {
+      "Template 1: Structured": 55,
+      "Template 2: Conversational": 55,
+      "Template 3: Expert Role": 55
+    },
+    "sentence_count": {
+      "Template 1: Structured": 1,
+      "Template 2: Conversational": 1,
+      "Template 3: Expert Role": 1
+    },
+    "avg_sentence_length": {
+      "Template 1: Structured": 8.0,
+      "Template 2: Conversational": 8.0,
+      "Template 3: Expert Role": 8.0
+    },
+    "has_numbered_list": {
+      "Template 1: Structured": false,
+      "Template 2: Conversational": false,
+      "Template 3: Expert Role": false
+    },
+    "has_bullet_points": {
+      "Template 1: Structured": false,
+      "Template 2: Conversational": false,
+      "Template 3: Expert Role": false
+    },
+    "question_marks": {
+      "Template 1: Structured": 0,
+      "Template 2: Conversational": 0,
+      "Template 3: Expert Role": 0
+    },
+    "exclamation_marks": {
+      "Template 1: Structured": 0,
+      "Template 2: Conversational": 0,
+      "Template 3: Expert Role": 0
+    }
+  }
+}
